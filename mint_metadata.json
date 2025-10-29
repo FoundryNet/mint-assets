@@ -1,11 +1,9 @@
 {
   "name": "MINT",
   "symbol": "MINT",
-  "description": "Optional description here",
-  "seller_fee_basis_points": 0,
+  "description": "Your description here",
   "image": "https://raw.githubusercontent.com/FoundryNet/mint-assets/main/generated-image-1755278688750.jpg",
   "attributes": [],
-  "collection": null,
   "properties": {
     "files": [
       {
